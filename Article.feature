@@ -7,6 +7,8 @@ Cenário: teste
   Quando eu aciono o botão "Y"
   Então o sistema retorna "xy"
 
-Cenário:
+Cenário: teste 1
+
+CENÁRIO: teste 02
 
 

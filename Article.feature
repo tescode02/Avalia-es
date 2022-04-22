@@ -17,3 +17,4 @@ Esquema do Cenário: Fazenda e Talhões - Editar Talhão
             | Status     | Nome                            | Cor         | Data Inicial | Data Final |
             | anterior   | AGUA AZUL-Agua Azul-02-Limite_1 | Azul Escuro | 20/04/2022   | 20/04/2022 |
             | atualizado | A-R                             | Vermelho    | 28/04/2022   | 30/04/2022 |
+v
